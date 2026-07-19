@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+downloads/*
+!downloads/.gitkeep
+cookies.txt
+.env
+.env.*
+!.env.example
+.DS_Store
+hyperframes/
+*.log
+*.part
+*.tmp
