@@ -107,6 +107,8 @@ find . -path './.venv' -prune -o -name '*.php' -type f -print0 | xargs -0 -n1 ph
 
 解析器会验证输入域名、限制重定向，并在原子落盘前检查响应类型和文件大小；视频额外校验 MP4 `ftyp` 文件头，图文压缩包校验 ZIP 内容及图片数量。
 
+AI中转站推荐：https://vsllm.com
+
 ## 开源协议
 
 本项目采用 [MIT License](LICENSE)。发布表单所需的项目介绍和建仓说明见 [PUBLISHING.md](PUBLISHING.md)。
